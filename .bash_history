@@ -1009,3 +1009,173 @@ cd
 clear
 sudo scp -i ansible_instance_dec_2018.pem /home/msshahi1/roles/my-role/files/test.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/.
 sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com
+sudo scp -i ansible_instance_dec_2018.pem /home/msshahi1/roles/my-role/files/test.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/.
+ls
+cd roles/
+ls
+cd my-role/
+ls
+cd files/#
+cd files/
+ls
+ls /etc
+ls 'la
+ls -la
+chmod 777 test.txt 
+ls -la
+cd
+clear
+sudo scp -i ansible_instance_dec_2018.pem /home/msshahi1/roles/my-role/files/test.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/.
+ls -la
+sudo scp -i ansible_instance_dec_2018.pem /home/msshahi1/roles/my-role/files/test.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/.
+sudo scp -i ansible_instance_dec_2018.pem touch /home/msshahi1/roles/my-role/files/test.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/.
+nano check.txt
+ls
+cat check.txt 
+sudo scp -i ansible_instance_dec_2018.pem check.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/.
+cd roles/
+cd
+cdh
+cd hosts/
+ls
+git status
+cd
+ls
+cd roles/
+ls
+cd my-role/
+ls
+cd files/
+ls
+cat test.txt 
+ls -la
+cd
+/etc/ansible/hosts
+sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com
+sudo scp -i ansible_instance_dec_2018.pem check.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/tmp/test.txt
+sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com
+lear
+clear
+ls
+cd hosts/
+cat my_hosts
+nano my_hosts
+cd
+cat playbook.yml
+cd roles/
+ls
+cd my-role/
+ls
+cd t
+cd tasks
+ls
+cat main.yml
+nano
+nano main.yml
+cd
+clear
+nano irnbru.txt
+ansible-playbook -i hosts playbook.yml
+ls
+cd hosts/
+ls
+cat my_hosts
+nano my_hosts
+cd
+clear
+ansible-playbook -i hosts playbook.yml
+cd hosts/
+cat my_hosts
+nano my_hosts
+cd
+ansible-playbook -i hosts playbook.yml
+cd hosts/
+nano my_hosts
+cat my_hosts
+cd
+ansible-playbook -i hosts playbook.yml
+cd hosts/
+nano my_hosts
+cd
+ansible-playbook -i hosts playbook.yml
+cd hosts/
+nano my_hosts
+cd
+ansible-playbook -i hosts playbook.yml
+git status
+git commit -a
+git add -a
+git add .bash_history 
+git add hosts/my_hosts
+git add roles/my-role/files
+git add roles/my-role/tasks/
+git status
+git commit -m "This time commitiing"
+git push -u origin master
+sudo scp -i ansible_instance_dec_2018.pem /home/msshahi1/roles/my-role/files/test.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/tmp/test.txt
+sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com
+ls
+sudo scp -i ansible_instance_dec_2018.pem check.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/tmp/test.txt
+sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com
+sudo scp -i ansible_instance_dec_2018.pem /home/msshahi1/roles/my-role/files/test.txt ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com:/tmp/test.txt
+sudo ssh -i ansible_instance_dec_2018.pem ubuntu@ec2-18-234-41-176.compute-1.amazonaws.com
+gitstatus
+git status
+ls
+ls irnbru.txt 
+cat tmp/
+cat irnbru.txt 
+nano irnbru.txt 
+clear
+ls
+clear
+ls
+cd hosts/
+ls
+cd m
+cat my_hosts
+clear
+cd
+clear
+python --version
+hg --version
+$ git clone -b release_18.09 https://github.com/galaxyproject/galaxy.git
+git clone -b release_18.09 https://github.com/galaxyproject/galaxy.git
+git remote
+git remote add origin1 https://github.com/msuhaibs/Galaxy.git
+git remote
+git status
+git add .bash_history 
+git status
+git add .ssh/known_hosts 
+git status
+git rm .bash_history 
+git status
+git rm -cached .bash_history 
+git rm --cached .bash_history 
+git status
+clear
+sh run.sh
+run.sh
+sudo sh run.sh
+sh run.sh
+hg --version
+clera
+clear
+ls
+cd galaxy/
+ls
+statu
+git status
+cd
+git status
+cd
+clear
+ls
+cd galaxy/
+ls
+cd lib/
+ls
+cd galaxy
+ls
+cd
