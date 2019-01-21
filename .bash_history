@@ -1179,3 +1179,225 @@ ls
 cd galaxy
 ls
 cd
+sh run.sh
+sh: 0: Can't open run.sh
+sh run.sh
+cd galaxy/
+sh run.sh
+clear
+sh run.sh
+cd
+clear
+sh run.sh
+cd galaxy/
+sh run.sh
+cd
+clear
+ls
+git status
+git rm --cached .ssh/known_hosts 
+git status
+git add .bash_history 
+git status
+git add galaxy/
+git status
+git reset
+git status
+git add .bash_history 
+get status
+git status
+ls
+git rm --cached .bash_history
+git status
+git add .bash_history 
+git status
+git commit -m "A commit containing only the bash history. Later commits will contain more details about Galaxy Instatllation"
+git remote add origin1 https://github.com/msuhaibs/Galaxy.git
+git push -u origin1 master
+git status
+clear
+ls
+cd galaxy/
+ls
+ls config/
+cd config/
+ls
+cat galaxy.yml.sample 
+cd
+clear
+cd galaxy/
+cp config/galaxy.yml.sample config/galaxy.yml
+ls
+cd congig/
+cd config/
+ls
+cd
+clear
+cd galaxy/
+sh run.sh
+cd
+clear
+cd galaxy/
+ls
+cd config/
+ls
+nano galaxy.yml
+cat galaxy.yml
+clear
+cs
+cd
+clear
+cd galaxy/
+;s
+ls
+sh run.sh
+cd config/
+ls
+nano galaxy.yml
+cd
+cd g
+cd galaxy/
+sh run.sh
+clear
+cd 
+clear
+ls
+git status
+ls
+ls galaxy/
+ls galaxy/config/
+ls galaxy/config/galaxy.yml
+cldear
+clear
+git status
+git add galaxy/config/galaxy.yml
+-f
+git status
+git add galaxy/config/galaxy.yml
+clear
+ls
+cd galaxy/
+ls
+cd config/
+ls
+cd plugins/
+ls
+ls interactive_environments/
+cd
+cd galaxy/
+config/plugins/interactive_environments
+cd config/plugins/interactive_environments
+ls
+cd
+clear
+cd galaxy/
+cd config/plugins/interactive_environments/ipython/config/ipython.ini.sample
+cd config/plugins/interactive_environments/ipython
+cd config/plugins/interactive_environments
+cd
+clear
+git clone https://github.com/bgruening/galaxy-ipython.git config/plugins/visualizations/ipython
+cd galaxy/
+ls
+cd config/
+ls
+cd plugins/
+ls
+cd interactive_environments/
+ls
+cd
+ls galaxy/config/plugins/visualizations/
+ls
+git status
+git add galaxy/
+git status
+git commit -m "Galaxy Repo"
+git push -u origin master
+git push -u origin1 master
+git push -u origin2 master
+git push -u origin1 master
+ls
+ls config/
+ls
+cd config/
+ls
+cd plugins/
+ls
+cd visualizations/
+ls
+cd ipython/
+ls
+ls config/
+ls
+cd
+ls
+clear
+ls
+git status
+git add config/
+git status
+git commit -m "This commit is a link to the config folder"
+git push -u origin1 master
+clear
+ls
+ls config/
+ls
+cd config/
+ls
+cd plugins/
+ls
+cd
+clear
+cd galaxy/
+ls
+cd config/
+ls
+cd
+clear
+git status
+ls
+git add .config/
+git status
+git commit -m "Configuration file for Galaxy"
+git push -u origin1 master
+clear
+cd galaxy/
+cd 
+ls
+clear
+cd galaxy/
+ls
+cd config/
+ls
+cd
+clear
+ls
+cd galaxy/
+ls
+cd
+git status
+ls
+clear
+ls
+cd galaxy/
+ls
+cd config/
+ls
+cd
+ls
+clear
+ls
+git add galaxy/config/
+git status
+git add galaxy/
+git status
+ls
+cd config/
+ls
+cd plugins/
+ls
+cd visualizations/
+ls
+cd 
+ls
+clear
