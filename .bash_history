@@ -1401,3 +1401,200 @@ ls
 cd 
 ls
 clear
+git status
+git pull
+git status
+git commit galaxy/config/
+git commit playbook.retry
+git add playbook.retry 
+git status
+git rm playbook.retry 
+git rm --cached playbook.retry
+git status
+git add
+git add .
+git status
+git add galaxy/config/.galaxy.yml.swp
+git status
+git add galaxy/config/auth_conf.xml.sample
+git status
+git add .
+git status
+git add galaxy/
+git status
+git add .bash_history 
+git status
+git commit -m "Now commiting Config flies, as extracted from github" 
+git push -u origin1 master
+sh run.sh
+run.sh
+cd galaxy/
+sh run.sh
+clear
+cd
+clear
+ls
+cd galaxy/
+ls
+cd config/
+ls
+nano galaxy.yml
+nano galaxy.yml.sample
+nano galaxy.yml
+cd
+clear
+cd galaxy/
+sh run.sh
+ls
+ls galaxy/
+cd galaxy/
+sh run.sh
+clear
+history
+cat run.sh 
+ansible -v
+ansible --version
+lspwd
+pwd
+ls -l
+nano config/galaxy.yml
+vi config/galaxy.yml
+sh run.sh
+clear
+cd
+clear
+c
+ls
+cd galaxy/
+ls
+clear
+ls
+cd config/
+ls
+cd
+ls
+cd config/
+ls
+cd plugins/
+ls
+CD
+cd
+clear
+$ cp config/galaxy.ini.sample config/galaxy.ini
+cp config/galaxy.ini.sample config/galaxy.ini
+cd galaxy/
+cp config/galaxy.ini.sample config/galaxy.ini
+cd 
+ls galaxy/
+cd hosts/
+cd
+clear
+ls
+cd galaxy/
+ls
+cd config/
+ls
+nano galaxy.yml
+cd
+clear
+cd galaxy/
+ls 
+sh run.sh
+cd
+cd galaxy/
+ls
+cd config/
+ls
+cd galaxy.yml
+nano galaxy.yml
+cd
+ls
+cd galaxy/
+sh run.sh
+clear
+ls
+cd static/
+ls
+cat welcome.html
+cd
+clear
+cd galaxy/
+els
+ls
+cd config/
+ls
+nano galaxy.yml
+cd
+clear
+EDITOR
+sudo -e EDITOR
+PATH
+cd EDITOR
+mkdir
+mkdir --help
+clear
+export EDITOR=nano
+export PATH="/srv/galaxy/bin:$PATH"
+~/.bashrc
+sudo ~/.bashrc
+sudo -1
+~/.bashrc
+bashrc
+HOME/.bashrc
+/.bashrc
+git status
+cd .bash_history
+cat .bashrc
+nano .bashrc
+cd galaxy/
+sh run.sh
+cd
+clear
+sudo -1
+sudo -l
+sudo -E visudo
+sudo -l
+sudo -E visudo
+sudo -l
+ls
+cd galaxy/
+ls
+cd config/
+ls
+nano galaxy.yml
+cd
+ls
+cd galaxy/
+sh run.sh
+cd
+clear
+cd galaxy/
+ls
+cd config/
+ls
+cd galaxy.ym
+cd galaxy.yml
+nano galaxy.yml
+cd clear
+cd 
+clear
+EDITOR
+export EDITOR=nano
+export PATH="/srv/galaxy/bin:$PATH"
+echo $EDITOR
+ls
+~/.bashrc
+cd ~/.bashrc
+~/.bashrc
+sudo ~/.bashrc
+EDITOR ~/.bashrc
+EDITOR ~/.bashrc: export EDITOR=nano
+bash
+sudo -l
+sudo -E visudo
+sudo -l
+sudo -E visudo
+sudo -l#
+sudo -l
+sudo -E visudo
+sudo -l

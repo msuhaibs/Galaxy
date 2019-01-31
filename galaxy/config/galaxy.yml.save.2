@@ -15,7 +15,7 @@
 #   https://galaxyproject.org/admin/config
 # 
 # Config hackers are encouraged to check there before asking for help.
-#
+
 uwsgi:
 
   # The address and port on which to listen.  By default, only listen to
@@ -107,7 +107,7 @@ galaxy:
   # string to specify an external database instead.  This string takes
   # many options which are explained in detail in the config file
   # documentation.
-  database_connection: 'sqlite:///./database/universe.sqlite?isolation_level=IMMEDIATE'
+  #database_connection: 'sqlite:///./database/universe.sqlite?isolation_level=IMMEDIATE'
 
   # If the server logs errors about not having enough database pool
   # connections, you will want to increase these values, or consider
@@ -644,13 +644,13 @@ galaxy:
   #enable_old_display_applications: true
 
   # Show a message box under the masthead.
-  message_box_visible: True
+  #message_box_visible: false
 
   # Show a message box under the masthead.
-  message_box_content: Hey, at least I'm not a popup!
+  #message_box_content: ''
 
   # Show a message box under the masthead.
-  message_box_class: info
+  #message_box_class: info
 
   # Append "/{brand}" to the "Galaxy" text in the masthead.
   #brand: ''
