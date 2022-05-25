@@ -106,7 +106,7 @@ pycryptodome==3.6.6
 pycryptodomex==3.6.6
 pyinotify==0.9.6; sys_platform != 'win32' and sys_platform != 'darwin' and sys_platform != 'sunos5'
 pyjwkest==1.4.0
-pyjwt==1.6.4
+pyjwt==2.4.0
 pykwalify==1.6.1
 pynacl==1.2.1
 pyopenssl==18.0.0
