@@ -89,7 +89,7 @@ oslo.context==2.21.0
 oslo.i18n==3.21.0
 oslo.log==3.39.0
 oslo.serialization==2.27.0; python_version != '3.3.*'
-oslo.utils==3.37.0; python_version != '3.3.*'
+oslo.utils==4.10.1; python_version != '3.3.*'
 packaging==17.1
 paramiko==2.4.2
 parsley==1.3
