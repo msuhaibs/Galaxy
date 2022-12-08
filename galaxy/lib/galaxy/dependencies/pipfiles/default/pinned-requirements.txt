@@ -31,7 +31,7 @@ botocore==1.10.84
 bunch==1.0.1
 bx-python==0.8.2
 bz2file==0.98; python_version < '3.3'
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 cheetah3==3.1.0
